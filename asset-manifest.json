@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/ai-tools-hub/static/css/main.33cbb859.css",
+    "main.js": "/ai-tools-hub/static/js/main.1c9ab1a6.js",
+    "index.html": "/ai-tools-hub/index.html",
+    "main.33cbb859.css.map": "/ai-tools-hub/static/css/main.33cbb859.css.map",
+    "main.1c9ab1a6.js.map": "/ai-tools-hub/static/js/main.1c9ab1a6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.33cbb859.css",
+    "static/js/main.1c9ab1a6.js"
+  ]
+}
